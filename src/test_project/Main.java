@@ -14,7 +14,7 @@ public class Main {
 	}
 
 	public static void a() {
-
+		// issueとcommit関連付け
 	}
 
 
