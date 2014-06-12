@@ -10,7 +10,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// branch1
-		System.out.println("");
+		System.out.println("ab");
 	}
 
 	public static void a() {
