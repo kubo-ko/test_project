@@ -18,5 +18,9 @@ public class Main {
 		System.out.println("issueとcommit関連付け");
 	}
 
+	public void test() {
+
+	}
+
 
 }
